@@ -1,0 +1,3 @@
+/home/gabs/software-projetos/inspecao-robo/gstream-to-mjpeg/build/CMakeFiles/rebuild_cache.dir
+/home/gabs/software-projetos/inspecao-robo/gstream-to-mjpeg/build/CMakeFiles/gstreamer_mjpeg.dir
+/home/gabs/software-projetos/inspecao-robo/gstream-to-mjpeg/build/CMakeFiles/edit_cache.dir
